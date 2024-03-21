@@ -1,0 +1,46 @@
+body {    
+    background-color: #a4ea19;
+    font-family:'Courier New', Courier, monospace;
+    color:black;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.img_size1 {
+}
+.title_photo {
+    text-align: center;
+}
+.my_photo{
+    background: url('C:\\Users\\Привет\\Desktop\\WEB_лабы\\WEB_2\\LICNIDACIYA_RIBALKA_TOP\\image\\I.jpg') no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 300px;
+}
+.nav-logo{
+    background: url('C:\\Users\\Привет\\Desktop\\WEB_лабы\\WEB_2\\LICNIDACIYA_RIBALKA_TOP\\image\\lucky.jpg') no-repeat center center;
+    background-size: 100%;
+    width: 800px;
+    height: 400px;
+}
